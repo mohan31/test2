@@ -18,4 +18,9 @@ public class fromnb {
         System.out.println(x);
     }
     
+    public void disp2()
+    {
+        
+    }
+    
 }
