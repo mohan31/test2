@@ -14,6 +14,9 @@ public class fromnb {
     {
         System.out.println("hello");
         System.out.println("in a branch");
+        System.out.println("from the master");
+        int a=1+2;
+        System.out.println(a);
     }
     
     public void prnt()
