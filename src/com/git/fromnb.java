@@ -30,4 +30,9 @@ public class fromnb {
         System.out.println("this is just to print");
     }
     
+    public void disp2()
+    {
+        
+    }
+    
 }
