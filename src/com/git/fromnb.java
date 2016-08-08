@@ -15,4 +15,9 @@ public class fromnb {
         System.out.println("hello");
     }
     
+    public void prnt()
+    {
+        System.out.println("this is just to print");
+    }
+    
 }
