@@ -35,6 +35,8 @@ public class fromnb {
     {
         System.out.println("disp from master");
         System.out.println("disp again from master");
+        System.out.println("disp from branch");
+        System.out.println("disp again from branch");
     }
     
 }
