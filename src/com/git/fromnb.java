@@ -10,5 +10,9 @@ package com.git;
  * @author raghu
  */
 public class fromnb {
+    public static void main(String arg[])
+    {
+        System.out.println("hello");
+    }
     
 }
