@@ -12,7 +12,8 @@ package com.git;
 public class fromnb {
     public void disp()
     {
-        
+        System.out.println("disp");
+        System.out.println("disp again");
     }
     public static void main(String arg[])
     {
