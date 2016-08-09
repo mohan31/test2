@@ -35,7 +35,9 @@ public class fromnb {
     {
         System.out.println("disp from master!!!!!");
         System.out.println("disp from dell-xps-from-terminal!!!!!");
+        System.out.println("disp from nb branch!!!!!");
         System.out.println("disp again from master");
+        System.out.println("disp from git-terminal-nbBranch!!!!!");
         System.out.println("disp from branch");
         System.out.println("disp again from branch");
     }
